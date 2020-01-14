@@ -1,0 +1,10 @@
+/* EE422C Assignment #2 submission by
+ * Replace <...> with your actual data.
+ * Austin Blanchard
+ * aab3958
+ */
+
+ has game method which runs entire game before returning whether or not there was a winner
+ contains strings used in doing this
+
+ contains subroutines used to calculate amount of white pegs and black pegs for each guess
