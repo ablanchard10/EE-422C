@@ -1,0 +1,3 @@
+This program takes in a text file - /src/assignment3/corpus.txt - and creates an affinity graph using each word as a vertex.
+It then reads a separate text file - /src/assignment3/input.txt - and finds bridge words in between sequences found in the corpus file.
+Finally, it outputs a string to the console using the text from corpus after inserting the bridge words found in input into their respective places.
