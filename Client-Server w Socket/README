@@ -1,0 +1,3 @@
+This program uses java socket programming to build a chat room.
+This program allows clients to be added and a server that recieves messages from those clients and dispatches it to the appropriate clients.
+Direct messages are supported by using '@' and then the username to which a direct message should be sent to.
